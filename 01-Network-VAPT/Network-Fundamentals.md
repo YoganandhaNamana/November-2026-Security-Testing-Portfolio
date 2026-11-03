@@ -74,6 +74,7 @@ tcp.flags.syn == 1
 tcp.flags.ack == 1
 tcp.port == 80
 tcp.port == 443
+<img width="970" height="886" alt="Screenshot 2026-11-03 152025" src="https://github.com/user-attachments/assets/f64baa85-e177-4d71-bda9-f90d75486022" />
 
 
 Note: HTTPS traffic is encrypted, so you can inspect its connection metadata and TLS handshake, but you generally cannot read the HTTP contents without authorized decryption
