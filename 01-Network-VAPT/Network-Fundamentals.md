@@ -18,7 +18,7 @@ network security assessment.
 - DNS and ARP
 - Ports and Services
 
-OSI & TCP/IP Model — Packet Architecture
+# OSI & TCP/IP Model — Packet Architecture
 <img width="1672" height="941" alt="OSI and TCP_IP Packet Architecture Infographic" src="https://github.com/user-attachments/assets/26067cf9-3fd3-43ad-ad84-3b2aa636d64e" />
 
 The infographic above covers the complete topic, including packet architecture, encapsulation, protocol headers, TCP flags, the TCP three-way handshake, socket communication, and the practical Network Traffic & Protocol Analyzer project.
