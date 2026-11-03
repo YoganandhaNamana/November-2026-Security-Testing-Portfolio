@@ -4,6 +4,7 @@
 The infographic explains how routers connect different networks, how default gateways work, how routing tables select paths, and how static and dynamic routing operate. It also covers inter-VLAN routing and a multi-router OSPF practical lab.
 
 1. What is routing?
+
 Routing is the process of forwarding IP packets between different networks.
 
 A switch primarily forwards Ethernet frames within a Layer 2 network. A router forwards IP packets between different IP networks using its routing table.
