@@ -1,4 +1,4 @@
-Core Infrastructure Services (DHCP & DNS)
+# Core Infrastructure Services (DHCP & DNS)
 <img width="1536" height="1024" alt="DHCP   DNS Infrastructure Guide" src="https://github.com/user-attachments/assets/cc899c36-1bde-4287-8f29-1a59bc2da382" />
 
 The infographic explains two essential services used in enterprise networks:
