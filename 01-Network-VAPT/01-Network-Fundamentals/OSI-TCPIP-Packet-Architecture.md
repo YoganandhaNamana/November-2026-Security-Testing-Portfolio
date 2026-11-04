@@ -1,23 +1,3 @@
-# Project 01: Network Reconnaissance and VAPT
-
-## Project Objective
-Understand networking and perform an authorised
-network security assessment.
-
-## Target Information
-- Lab Name:
-- Target IP:
-- Scope:
-- Testing Date:
-
-## Learning Topics
-- OSI and TCP/IP
-- IP Addressing
-- Subnetting
-- TCP and UDP
-- DNS and ARP
-- Ports and Services
-
 # OSI & TCP/IP Model — Packet Architecture
 <img width="1672" height="941" alt="OSI and TCP_IP Packet Architecture Infographic" src="https://github.com/user-attachments/assets/26067cf9-3fd3-43ad-ad84-3b2aa636d64e" />
 
