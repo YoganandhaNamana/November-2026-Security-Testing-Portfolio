@@ -1,4 +1,6 @@
 # IP Addressing, Subnetting, and CIDR
+<img width="1536" height="1024" alt="IP Addressing and Subnetting Blueprint" src="https://github.com/user-attachments/assets/2de505d7-9caf-4a34-a3d4-8827027b4a4f" />
+
 The infographic above explains IPv4 and IPv6 addressing, network and host bits, subnet masks, CIDR notation, VLSM, public and private IP ranges, and the Enterprise Subnetting Blueprint.
 1. IP addressing fundamentals
 An IP address (Internet Protocol address) is a logical address assigned to a device so it can communicate over a network.
@@ -64,8 +66,6 @@ Private range	CIDR
 
 Public IP addresses are globally routable addresses allocated through internet address management systems.
 6. Hands-on project: Enterprise Subnetting Blueprint
-<img width="1536" height="1024" alt="IP Addressing and Subnetting Blueprint" src="https://github.com/user-attachments/assets/2de505d7-9caf-4a34-a3d4-8827027b4a4f" />
-
 
 The project requirements:
 Department	VLAN	Required hosts
